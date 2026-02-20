@@ -9,18 +9,16 @@ I build scalable backend systems, modern web applications, and AI-powered soluti
 ---
 
 ### 🚀 About Me
-- 🎓 Final-year Computer Science student (Graduating 2026)
-- 💡 Developed AI-based Document Analysis System using NLP & Transformers
-- 📊 Built ANN prediction model using TensorFlow for performance forecasting
-- 🧠 Strong foundation in DSA, OOPS, and Software Engineering
-- ⚡ Focused on writing clean, maintainable, and scalable code
-
+ 🎓 CS student 
+ 💡 Developed AI-based Document Analysis System using NLP & Transformers
+ 📊 Built ANN prediction model using TensorFlow for performance forecasting
+ 🧠 Strong foundation in DSA, OOPS, and Software Engineering
 ---
 ---
 
 ### 📫 Let's Connect
-- LinkedIn: [www.linkedin.com/in/naveen-oruganti-679363259]
-- Email: naveenchary1955@gmail.com
+ LinkedIn: www.linkedin.com/in/naveen-oruganti-679363259
+ Email: naveenchary1955@gmail.com
 
 ## 🌐 Socials:
 
@@ -51,6 +49,6 @@ I build scalable backend systems, modern web applications, and AI-powered soluti
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-**Naveen1955/Naveen1955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
